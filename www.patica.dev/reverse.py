@@ -1,7 +1,7 @@
-l=[[1,2],[3,4],[5,6,7]]
-l.reverse()
+l=[[1,2],[3,4],[5,6,7]] # verilen liste
+l.reverse() # listeyi tersine çeviren fonksiyon
 
-for i in l:
+for i in l: #listenin elemanları arasında gezinir ve elemanlarını tersine çevirir
     i.reverse()
 
-print(l)    
+print(l)    # sonucu yazdır
