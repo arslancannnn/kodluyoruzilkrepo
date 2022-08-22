@@ -1,0 +1,19 @@
+								BAYES TEOREMİ
+
+	Bayes teoremi Thomas bayes tarafından açıklanmış bir olasılık teoremidir. Bu teoreme göre B ön koşullu 
+A olayı için olasılık değeri, A ön koşullu B olayı için olasılık değerinden farklıdır. Ancak bu olasılık arasında belirli bir
+ilişki vardır.
+
+	Örneğin her 50 insandan 1'inde görülen bir hastalık için bir test kiti geliştirildiğini varsayalım. Bu test kiti gerçekten hasta 
+olan bir kişinin sonucunu %90 pozitif olarak tahmin etsin. sağlıklı bir insanın ise test sonucu %10 pozitif çıkmakta olsun. 
+bu bilgilere göre test sonucu pozitif olan bir insanın gerçekten hasta olma olasılığı nedir?
+	
+	Bu soruyu yanıtlamak için öncelikle p(A) yani insanların hasta olma olasılığını bulalım. Hastalık her 50 kişiden birisinde 
+görülüyorsa herhangi bir insanın hasta olma olasılığı 1/50 olarak hesaplanır.
+	İkinci olarak p(B) durumunun yani yapılan testin pozitif çıkma olasılığına bakalım. Hasta olan insanların test sonuçlarının
+ %90'nı pozitif, sağlıklı insanların ise testlerinin %10'u pozitif çıktığına göre testin pozitif çıkma olasılığı (1/50*0.80)+(49/50*0.10)=0.11
+olarak heaspalır.
+	P(B|A) olayı yani hastalıklı bir kişinin testinin pozitif çıkma olasılığı 0.90 olarak bize verilmiştir.
+	Bu bilgiler kullanılarak p(A|B) olayının yani bizden istene test sonucu pozitif olan bir insanın gerçekten hasta olma olasılığı
+Bayes teoremi kullanılarak hesaplandığında ise sonuç:
+ 	p(A|B)=p(B|A)*p(A)/P(B) ==> (0.90*1/50)/ 0.11 = 0.16 yani %16 olarak bulunur.
