@@ -5,7 +5,8 @@ import java.util.Scanner;
 public class GirilenSayiKadarKuvvet {
     public static void main(String[] args) {
         Scanner inp = new Scanner(System.in);
-        int num,carpim=1;
+        int num;
+        long carpim=1
         System.out.println("Bir sayı girin: ");
         num=inp.nextInt();
         for (int i = 0; i <= num; i++) {
