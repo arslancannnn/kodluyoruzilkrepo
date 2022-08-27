@@ -5,7 +5,6 @@ public class GirilenSayiKadarKuvvet {
     public static void main(String[] args) {
         Scanner inp = new Scanner(System.in);
         int num;
-
         System.out.println("Bir sayı girin: ");
         num=inp.nextInt();
         System.out.println("4'ün kuvvetleri: ");
