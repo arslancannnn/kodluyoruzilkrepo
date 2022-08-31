@@ -7,6 +7,7 @@ public class PolindromSayi {
         
         System.out.println("Bir sayı girin: ");
         int num= inp.nextInt();
+        inp.close();
         boolean result = isPolindrom(num);
 
         if(result)
