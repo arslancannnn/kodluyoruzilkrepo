@@ -16,6 +16,8 @@ public class UcakBiletiHesap {
         System.out.println("Yolculuk tipini seçin: \n1- Tek yön\n2-Gidiş dönüş");
         yolculukTipi=inp.nextInt();
 
+        inp.close();
+
         if(mesafe<0 || yas<0 || (yolculukTipi<1 && yolculukTipi>2))
             System.out.println("Hatalı Veri Girdiniz !");
         else{

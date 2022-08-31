@@ -12,6 +12,7 @@ public class BurcBulma {
 
         System.out.println("Doğduğunuz gün:");
         gun=inp.nextInt();
+        inp.close();
 
         if((ay.equals("mart") && gun>=21) || (ay.equals("nisan") && gun<=20)){
             System.out.println("Koç burcusunuz");

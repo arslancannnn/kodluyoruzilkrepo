@@ -10,6 +10,8 @@ public class KDV {
         System.out.println("Tutarı giriniz:");
         Tutar = Input.nextDouble();
 
+        Input.close();
+
         boolean KDV = (0<Tutar) && (Tutar>1000);
 
         Tutar=(KDV ? Tutar+(Tutar*0.08): Tutar+(Tutar*0.18));

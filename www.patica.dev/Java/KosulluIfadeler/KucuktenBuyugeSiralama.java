@@ -15,6 +15,8 @@ public class KucuktenBuyugeSiralama {
         System.out.println("3. sayıyı girin");
         num3=inp.nextInt();
 
+        inp.close();
+
         if(num1<num2 && num1<num3){
             if(num2<num3)
                 System.out.println(num1+"<"+num2+"<"+num3);

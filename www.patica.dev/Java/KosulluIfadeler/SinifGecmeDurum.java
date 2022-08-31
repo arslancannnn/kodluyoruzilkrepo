@@ -23,6 +23,8 @@ public class SinifGecmeDurum {
         System.out.println("Müzik notunu girin: ");
         muzik=inp.nextInt();
 
+        inp.close();
+
         if(turkce>=0 && turkce<=100){
             Avg=Avg+turkce;
             hesplananDers +=1;

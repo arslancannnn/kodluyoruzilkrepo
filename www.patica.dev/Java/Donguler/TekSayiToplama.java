@@ -8,6 +8,7 @@ public class TekSayiToplama {
         do {
             System.out.print("\nBir sayı girin: ");
             girilenSayi=inp.nextInt();
+            inp.close();
 
             if(girilenSayi%4==0)
                 toplam += girilenSayi;

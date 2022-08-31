@@ -9,6 +9,7 @@ public class UcDortTamBolunen {
 
         System.out.println("Sayı giriniz: ");
         deger=inp.nextInt();
+        inp.close();
 
         for(int i=1;i<=deger;i++){
             if(i%3==0 && i%4==0){

@@ -10,6 +10,7 @@ public class VucutKitleIndex {
         Boy=Input.nextDouble();
         System.out.println("Lütfen kilonuzu girin");
         Kilo=Input.nextDouble();
+        Input.close();
         Index=Kilo/(Boy*Boy);
         System.out.println("Vücut kitle indeksiniz: "+Index);
 

@@ -25,6 +25,8 @@ public class Manav {
         Kilo=Input.nextDouble();
         Tutar += Patlican*Kilo;
 
+        Input.close();
+
         System.out.println("Toplam tutar: "+Tutar+" TL");
         
     }

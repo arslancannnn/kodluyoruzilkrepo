@@ -46,8 +46,10 @@ public class KullaniciGiris {
                         System.out.println("ERROR!!!");
                         break;
             }
+           
 
         }
+        inp.close();
         
     }
     

@@ -9,6 +9,7 @@ public class MukemmelSayi {
 
             System.out.println("Bir sayı girin: ");
             sayi=inp.nextInt();
+            inp.close();
 
             for (int i = 1; i < sayi; i++) {
                 if(sayi % i ==0){

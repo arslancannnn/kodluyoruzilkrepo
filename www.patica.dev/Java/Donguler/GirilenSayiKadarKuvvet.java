@@ -7,6 +7,7 @@ public class GirilenSayiKadarKuvvet {
         int num;
         System.out.println("Bir sayı girin: ");
         num=inp.nextInt();
+        inp.close();
         System.out.println("4'ün kuvvetleri: ");
         for (int i = 1; i <= num; i*=4) {
             System.out.print(i+"\t");

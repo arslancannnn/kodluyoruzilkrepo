@@ -12,6 +12,8 @@ public class Kombinasyon {
         System.out.println("2. sayıyı girin: ");
         num2=inp.nextInt();
 
+        inp.close();
+
         for (int i = 1; i <= num1; i++) {
             num1Fak *= i;
         }

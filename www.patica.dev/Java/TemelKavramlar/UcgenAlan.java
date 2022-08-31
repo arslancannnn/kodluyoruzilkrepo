@@ -13,6 +13,7 @@ public class UcgenAlan {
         Kenar2 = Input.nextDouble();
         System.out.print("/nÜçüncü kenarı giriniz:");
         Kenar3 = Input.nextDouble();
+        Input.close();
 
         
         Alan = (Kenar1+Kenar2+Kenar3)/2;

@@ -23,6 +23,8 @@ public class OrtalamaHesaplama{
 
         System.out.println("Müzik notunu girin;");
         int Muzik = Input.nextInt();
+
+        Input.close();
         
         int Avg = (Mat+Fizik+Kimya+Tr+Tarih+Muzik)/6;
 

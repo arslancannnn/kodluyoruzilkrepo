@@ -15,6 +15,8 @@ public class HesapMakinesi {
         System.out.println("1-Toplama\n2-Çıkarma\n3-Çarpma\n4-Bölme");
         Select=Input.nextInt();
 
+        Input.close();
+
         switch(Select){
             case 1:
                 System.out.println("Toplam :" +(n1+n2));

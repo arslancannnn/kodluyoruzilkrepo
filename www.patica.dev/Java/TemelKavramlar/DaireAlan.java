@@ -11,6 +11,8 @@ public class DaireAlan {
         System.out.print("Açı çlçüsünü girin");
         A=Input.nextDouble();
 
+        Input.close();
+
         Alan=(P*R*R*A)/360;
         System.out.println("Alan: "+Alan);
     }

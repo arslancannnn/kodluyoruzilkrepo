@@ -10,6 +10,8 @@ public class EtkinlikOnerme {
         System.out.println("Sıcaklığı girin: ");
         heat=inp.nextInt();
 
+        inp.close();
+
         if(heat<5){
             System.out.println("Bugün kayağa gidebilirsin");
         }else if(heat>=5 && heat<=25){

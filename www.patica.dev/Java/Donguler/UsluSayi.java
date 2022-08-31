@@ -13,6 +13,8 @@ public class UsluSayi {
         System.out.print("\nÜs olacak sayı: ");
         us=inp.nextInt();
 
+        inp.close();
+
         for (int i = 1; i <= us; i++) {
             sonuc *= taban;
         }

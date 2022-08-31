@@ -6,6 +6,7 @@ public class ArtikYil {
         Scanner inp =new Scanner(System.in);
         System.out.println("Bir yıl girin: ");
         int yil = inp.nextInt();
+        inp.close();
 
         if(yil%4==0){
             if(yil%100==0)

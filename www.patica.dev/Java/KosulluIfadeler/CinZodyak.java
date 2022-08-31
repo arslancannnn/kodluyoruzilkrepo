@@ -8,6 +8,7 @@ public class CinZodyak {
         
         System.out.println("Doğum yılınızı girin: ");
         dogum=inp.nextInt();
+        inp.close();
 
         burc=dogum%12;
 
