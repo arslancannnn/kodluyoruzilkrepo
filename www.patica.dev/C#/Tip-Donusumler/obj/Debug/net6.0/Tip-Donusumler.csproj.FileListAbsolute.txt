@@ -1,0 +1,15 @@
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\Tip-Donusumler\bin\Debug\net6.0\Tip-Donusumler.exe
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\Tip-Donusumler\bin\Debug\net6.0\Tip-Donusumler.deps.json
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\Tip-Donusumler\bin\Debug\net6.0\Tip-Donusumler.runtimeconfig.json
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\Tip-Donusumler\bin\Debug\net6.0\Tip-Donusumler.dll
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\Tip-Donusumler\bin\Debug\net6.0\Tip-Donusumler.pdb
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\Tip-Donusumler\obj\Debug\net6.0\Tip-Donusumler.csproj.AssemblyReference.cache
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\Tip-Donusumler\obj\Debug\net6.0\Tip-Donusumler.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\Tip-Donusumler\obj\Debug\net6.0\Tip-Donusumler.AssemblyInfoInputs.cache
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\Tip-Donusumler\obj\Debug\net6.0\Tip-Donusumler.AssemblyInfo.cs
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\Tip-Donusumler\obj\Debug\net6.0\Tip-Donusumler.csproj.CoreCompileInputs.cache
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\Tip-Donusumler\obj\Debug\net6.0\Tip-Donusumler.dll
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\Tip-Donusumler\obj\Debug\net6.0\refint\Tip-Donusumler.dll
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\Tip-Donusumler\obj\Debug\net6.0\Tip-Donusumler.pdb
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\Tip-Donusumler\obj\Debug\net6.0\Tip-Donusumler.genruntimeconfig.cache
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\Tip-Donusumler\obj\Debug\net6.0\ref\Tip-Donusumler.dll
