@@ -1,0 +1,15 @@
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\Hata-Yonetimi\bin\Debug\net6.0\Hata-Yonetimi.exe
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\Hata-Yonetimi\bin\Debug\net6.0\Hata-Yonetimi.deps.json
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\Hata-Yonetimi\bin\Debug\net6.0\Hata-Yonetimi.runtimeconfig.json
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\Hata-Yonetimi\bin\Debug\net6.0\Hata-Yonetimi.dll
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\Hata-Yonetimi\bin\Debug\net6.0\Hata-Yonetimi.pdb
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\Hata-Yonetimi\obj\Debug\net6.0\Hata-Yonetimi.csproj.AssemblyReference.cache
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\Hata-Yonetimi\obj\Debug\net6.0\Hata-Yonetimi.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\Hata-Yonetimi\obj\Debug\net6.0\Hata-Yonetimi.AssemblyInfoInputs.cache
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\Hata-Yonetimi\obj\Debug\net6.0\Hata-Yonetimi.AssemblyInfo.cs
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\Hata-Yonetimi\obj\Debug\net6.0\Hata-Yonetimi.csproj.CoreCompileInputs.cache
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\Hata-Yonetimi\obj\Debug\net6.0\Hata-Yonetimi.dll
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\Hata-Yonetimi\obj\Debug\net6.0\refint\Hata-Yonetimi.dll
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\Hata-Yonetimi\obj\Debug\net6.0\Hata-Yonetimi.pdb
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\Hata-Yonetimi\obj\Debug\net6.0\Hata-Yonetimi.genruntimeconfig.cache
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\Hata-Yonetimi\obj\Debug\net6.0\ref\Hata-Yonetimi.dll
