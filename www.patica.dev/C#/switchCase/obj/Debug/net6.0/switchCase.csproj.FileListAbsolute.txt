@@ -1,0 +1,15 @@
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\switchCase\obj\Debug\net6.0\switchCase.csproj.AssemblyReference.cache
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\switchCase\obj\Debug\net6.0\switchCase.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\switchCase\obj\Debug\net6.0\switchCase.AssemblyInfoInputs.cache
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\switchCase\obj\Debug\net6.0\switchCase.AssemblyInfo.cs
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\switchCase\obj\Debug\net6.0\switchCase.csproj.CoreCompileInputs.cache
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\switchCase\bin\Debug\net6.0\switchCase.exe
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\switchCase\bin\Debug\net6.0\switchCase.deps.json
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\switchCase\bin\Debug\net6.0\switchCase.runtimeconfig.json
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\switchCase\bin\Debug\net6.0\switchCase.dll
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\switchCase\bin\Debug\net6.0\switchCase.pdb
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\switchCase\obj\Debug\net6.0\switchCase.dll
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\switchCase\obj\Debug\net6.0\refint\switchCase.dll
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\switchCase\obj\Debug\net6.0\switchCase.pdb
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\switchCase\obj\Debug\net6.0\switchCase.genruntimeconfig.cache
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\switchCase\obj\Debug\net6.0\ref\switchCase.dll
