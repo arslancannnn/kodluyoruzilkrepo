@@ -1,0 +1,15 @@
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\Ifelse\bin\Debug\net6.0\Ifelse.exe
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\Ifelse\bin\Debug\net6.0\Ifelse.deps.json
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\Ifelse\bin\Debug\net6.0\Ifelse.runtimeconfig.json
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\Ifelse\bin\Debug\net6.0\Ifelse.dll
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\Ifelse\bin\Debug\net6.0\Ifelse.pdb
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\Ifelse\obj\Debug\net6.0\Ifelse.csproj.AssemblyReference.cache
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\Ifelse\obj\Debug\net6.0\Ifelse.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\Ifelse\obj\Debug\net6.0\Ifelse.AssemblyInfoInputs.cache
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\Ifelse\obj\Debug\net6.0\Ifelse.AssemblyInfo.cs
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\Ifelse\obj\Debug\net6.0\Ifelse.csproj.CoreCompileInputs.cache
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\Ifelse\obj\Debug\net6.0\Ifelse.dll
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\Ifelse\obj\Debug\net6.0\refint\Ifelse.dll
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\Ifelse\obj\Debug\net6.0\Ifelse.pdb
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\Ifelse\obj\Debug\net6.0\Ifelse.genruntimeconfig.cache
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\Ifelse\obj\Debug\net6.0\ref\Ifelse.dll
