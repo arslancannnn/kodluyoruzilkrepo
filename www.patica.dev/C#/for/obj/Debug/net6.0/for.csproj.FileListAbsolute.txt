@@ -1,0 +1,15 @@
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\for\bin\Debug\net6.0\for.exe
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\for\bin\Debug\net6.0\for.deps.json
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\for\bin\Debug\net6.0\for.runtimeconfig.json
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\for\bin\Debug\net6.0\for.dll
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\for\bin\Debug\net6.0\for.pdb
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\for\obj\Debug\net6.0\for.csproj.AssemblyReference.cache
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\for\obj\Debug\net6.0\for.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\for\obj\Debug\net6.0\for.AssemblyInfoInputs.cache
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\for\obj\Debug\net6.0\for.AssemblyInfo.cs
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\for\obj\Debug\net6.0\for.csproj.CoreCompileInputs.cache
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\for\obj\Debug\net6.0\for.dll
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\for\obj\Debug\net6.0\refint\for.dll
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\for\obj\Debug\net6.0\for.pdb
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\for\obj\Debug\net6.0\for.genruntimeconfig.cache
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\for\obj\Debug\net6.0\ref\for.dll
