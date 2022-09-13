@@ -1,0 +1,15 @@
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\ArraySinifi\bin\Debug\net6.0\ArraySinifi.exe
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\ArraySinifi\bin\Debug\net6.0\ArraySinifi.deps.json
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\ArraySinifi\bin\Debug\net6.0\ArraySinifi.runtimeconfig.json
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\ArraySinifi\bin\Debug\net6.0\ArraySinifi.dll
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\ArraySinifi\bin\Debug\net6.0\ArraySinifi.pdb
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\ArraySinifi\obj\Debug\net6.0\ArraySinifi.csproj.AssemblyReference.cache
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\ArraySinifi\obj\Debug\net6.0\ArraySinifi.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\ArraySinifi\obj\Debug\net6.0\ArraySinifi.AssemblyInfoInputs.cache
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\ArraySinifi\obj\Debug\net6.0\ArraySinifi.AssemblyInfo.cs
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\ArraySinifi\obj\Debug\net6.0\ArraySinifi.csproj.CoreCompileInputs.cache
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\ArraySinifi\obj\Debug\net6.0\ArraySinifi.dll
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\ArraySinifi\obj\Debug\net6.0\refint\ArraySinifi.dll
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\ArraySinifi\obj\Debug\net6.0\ArraySinifi.pdb
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\ArraySinifi\obj\Debug\net6.0\ArraySinifi.genruntimeconfig.cache
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\ArraySinifi\obj\Debug\net6.0\ref\ArraySinifi.dll
