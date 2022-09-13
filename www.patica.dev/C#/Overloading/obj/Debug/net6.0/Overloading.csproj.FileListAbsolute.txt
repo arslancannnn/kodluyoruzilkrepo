@@ -1,0 +1,15 @@
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\Overloading\bin\Debug\net6.0\Overloading.exe
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\Overloading\bin\Debug\net6.0\Overloading.deps.json
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\Overloading\bin\Debug\net6.0\Overloading.runtimeconfig.json
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\Overloading\bin\Debug\net6.0\Overloading.dll
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\Overloading\bin\Debug\net6.0\Overloading.pdb
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\Overloading\obj\Debug\net6.0\Overloading.csproj.AssemblyReference.cache
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\Overloading\obj\Debug\net6.0\Overloading.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\Overloading\obj\Debug\net6.0\Overloading.AssemblyInfoInputs.cache
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\Overloading\obj\Debug\net6.0\Overloading.AssemblyInfo.cs
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\Overloading\obj\Debug\net6.0\Overloading.csproj.CoreCompileInputs.cache
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\Overloading\obj\Debug\net6.0\Overloading.dll
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\Overloading\obj\Debug\net6.0\refint\Overloading.dll
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\Overloading\obj\Debug\net6.0\Overloading.pdb
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\Overloading\obj\Debug\net6.0\Overloading.genruntimeconfig.cache
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\Overloading\obj\Debug\net6.0\ref\Overloading.dll
