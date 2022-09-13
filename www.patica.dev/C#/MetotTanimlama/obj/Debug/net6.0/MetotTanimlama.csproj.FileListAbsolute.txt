@@ -1,0 +1,15 @@
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\MetotTanimlama\bin\Debug\net6.0\MetotTanimlama.exe
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\MetotTanimlama\bin\Debug\net6.0\MetotTanimlama.deps.json
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\MetotTanimlama\bin\Debug\net6.0\MetotTanimlama.runtimeconfig.json
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\MetotTanimlama\bin\Debug\net6.0\MetotTanimlama.dll
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\MetotTanimlama\bin\Debug\net6.0\MetotTanimlama.pdb
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\MetotTanimlama\obj\Debug\net6.0\MetotTanimlama.csproj.AssemblyReference.cache
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\MetotTanimlama\obj\Debug\net6.0\MetotTanimlama.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\MetotTanimlama\obj\Debug\net6.0\MetotTanimlama.AssemblyInfoInputs.cache
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\MetotTanimlama\obj\Debug\net6.0\MetotTanimlama.AssemblyInfo.cs
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\MetotTanimlama\obj\Debug\net6.0\MetotTanimlama.csproj.CoreCompileInputs.cache
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\MetotTanimlama\obj\Debug\net6.0\MetotTanimlama.dll
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\MetotTanimlama\obj\Debug\net6.0\refint\MetotTanimlama.dll
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\MetotTanimlama\obj\Debug\net6.0\MetotTanimlama.pdb
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\MetotTanimlama\obj\Debug\net6.0\MetotTanimlama.genruntimeconfig.cache
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\MetotTanimlama\obj\Debug\net6.0\ref\MetotTanimlama.dll
