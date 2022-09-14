@@ -1,0 +1,15 @@
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\Extension\bin\Debug\net6.0\Extension.exe
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\Extension\bin\Debug\net6.0\Extension.deps.json
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\Extension\bin\Debug\net6.0\Extension.runtimeconfig.json
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\Extension\bin\Debug\net6.0\Extension.dll
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\Extension\bin\Debug\net6.0\Extension.pdb
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\Extension\obj\Debug\net6.0\Extension.csproj.AssemblyReference.cache
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\Extension\obj\Debug\net6.0\Extension.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\Extension\obj\Debug\net6.0\Extension.AssemblyInfoInputs.cache
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\Extension\obj\Debug\net6.0\Extension.AssemblyInfo.cs
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\Extension\obj\Debug\net6.0\Extension.csproj.CoreCompileInputs.cache
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\Extension\obj\Debug\net6.0\Extension.dll
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\Extension\obj\Debug\net6.0\refint\Extension.dll
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\Extension\obj\Debug\net6.0\Extension.pdb
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\Extension\obj\Debug\net6.0\Extension.genruntimeconfig.cache
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\Extension\obj\Debug\net6.0\ref\Extension.dll
