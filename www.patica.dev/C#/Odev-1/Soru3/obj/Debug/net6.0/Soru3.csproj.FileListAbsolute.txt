@@ -1,0 +1,15 @@
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\Odev-1\Soru3\obj\Debug\net6.0\Soru3.csproj.AssemblyReference.cache
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\Odev-1\Soru3\obj\Debug\net6.0\Soru3.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\Odev-1\Soru3\obj\Debug\net6.0\Soru3.AssemblyInfoInputs.cache
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\Odev-1\Soru3\obj\Debug\net6.0\Soru3.AssemblyInfo.cs
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\Odev-1\Soru3\obj\Debug\net6.0\Soru3.csproj.CoreCompileInputs.cache
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\Odev-1\Soru3\bin\Debug\net6.0\Soru3.exe
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\Odev-1\Soru3\bin\Debug\net6.0\Soru3.deps.json
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\Odev-1\Soru3\bin\Debug\net6.0\Soru3.runtimeconfig.json
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\Odev-1\Soru3\bin\Debug\net6.0\Soru3.dll
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\Odev-1\Soru3\bin\Debug\net6.0\Soru3.pdb
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\Odev-1\Soru3\obj\Debug\net6.0\Soru3.dll
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\Odev-1\Soru3\obj\Debug\net6.0\refint\Soru3.dll
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\Odev-1\Soru3\obj\Debug\net6.0\Soru3.pdb
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\Odev-1\Soru3\obj\Debug\net6.0\Soru3.genruntimeconfig.cache
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\Odev-1\Soru3\obj\Debug\net6.0\ref\Soru3.dll
