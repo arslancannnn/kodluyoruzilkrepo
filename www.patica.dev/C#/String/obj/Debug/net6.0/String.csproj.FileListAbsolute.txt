@@ -1,0 +1,15 @@
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\String\bin\Debug\net6.0\String.exe
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\String\bin\Debug\net6.0\String.deps.json
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\String\bin\Debug\net6.0\String.runtimeconfig.json
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\String\bin\Debug\net6.0\String.dll
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\String\bin\Debug\net6.0\String.pdb
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\String\obj\Debug\net6.0\String.csproj.AssemblyReference.cache
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\String\obj\Debug\net6.0\String.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\String\obj\Debug\net6.0\String.AssemblyInfoInputs.cache
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\String\obj\Debug\net6.0\String.AssemblyInfo.cs
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\String\obj\Debug\net6.0\String.csproj.CoreCompileInputs.cache
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\String\obj\Debug\net6.0\String.dll
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\String\obj\Debug\net6.0\refint\String.dll
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\String\obj\Debug\net6.0\String.pdb
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\String\obj\Debug\net6.0\String.genruntimeconfig.cache
+c:\Users\azizc\kodluyoruzilkrepo-1\www.patica.dev\C#\String\obj\Debug\net6.0\ref\String.dll
